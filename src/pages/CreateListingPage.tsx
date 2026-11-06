@@ -40,3 +40,4 @@ export const CreateListingPage: React.FC = () => {
     </div>
   );
 };
+

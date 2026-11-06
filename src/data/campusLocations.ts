@@ -51,3 +51,4 @@ export const CAMPUS_LOCATIONS: CampusLocation[] = [
     isPopular: false,
   },
 ];
+

@@ -352,3 +352,4 @@ export const INITIAL_LISTINGS: Listing[] = [
     favoritesCount: 15,
   },
 ];
+

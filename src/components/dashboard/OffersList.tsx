@@ -181,3 +181,4 @@ export const OffersList: React.FC = () => {
     </div>
   );
 };
+

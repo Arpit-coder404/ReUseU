@@ -58,3 +58,4 @@ export const CATEGORIES: Category[] = [
     badgeCount: 17,
   },
 ];
+

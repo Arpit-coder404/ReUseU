@@ -206,3 +206,4 @@ export const ImpactPage: React.FC = () => {
     </div>
   );
 };
+

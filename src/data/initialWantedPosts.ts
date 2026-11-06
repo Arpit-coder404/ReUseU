@@ -78,3 +78,4 @@ export const INITIAL_WANTED_POSTS: WantedPost[] = [
     responsesCount: 4,
   },
 ];
+

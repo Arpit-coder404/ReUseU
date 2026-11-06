@@ -94,3 +94,4 @@ export const INITIAL_USERS: Record<string, UserProfile> = {
 };
 
 export const CURRENT_USER_ID = 'user-arjun';
+

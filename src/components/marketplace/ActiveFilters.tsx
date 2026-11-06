@@ -104,3 +104,4 @@ export const ActiveFilters: React.FC<ActiveFiltersProps> = ({
     </div>
   );
 };
+

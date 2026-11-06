@@ -363,3 +363,4 @@ export const ListingDetailPage: React.FC = () => {
     </div>
   );
 };
+

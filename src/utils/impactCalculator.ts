@@ -61,3 +61,4 @@ export function calculateTransactionsImpact(transactions: Transaction[]) {
     co2SavedKg,
   };
 }
+

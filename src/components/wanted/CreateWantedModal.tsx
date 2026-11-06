@@ -192,3 +192,4 @@ export const CreateWantedModal: React.FC<CreateWantedModalProps> = ({ isOpen, on
     </Modal>
   );
 };
+

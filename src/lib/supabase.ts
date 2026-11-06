@@ -19,3 +19,4 @@ export const supabaseConfigInfo = {
   url: supabaseUrl || 'Not configured (using local reactive storage)',
   mode: isSupabaseConfigured ? 'Live PostgreSQL + Auth' : 'Demo Local Storage Engine',
 };
+

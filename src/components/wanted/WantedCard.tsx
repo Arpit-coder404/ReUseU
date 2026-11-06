@@ -166,3 +166,4 @@ export const WantedCard: React.FC<WantedCardProps> = ({ post }) => {
     </>
   );
 };
+

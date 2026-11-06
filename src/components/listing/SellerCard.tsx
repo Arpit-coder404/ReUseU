@@ -82,3 +82,4 @@ export const SellerCard: React.FC<SellerCardProps> = ({ seller }) => {
     </div>
   );
 };
+

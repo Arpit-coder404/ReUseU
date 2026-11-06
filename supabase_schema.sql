@@ -210,3 +210,4 @@ CREATE POLICY "Participants can view conversation messages" ON public.messages F
 
 CREATE POLICY "Participants can insert messages" ON public.messages FOR INSERT
   WITH CHECK (auth.uid() = sender_id);
+

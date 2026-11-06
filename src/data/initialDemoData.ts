@@ -237,3 +237,4 @@ export const INITIAL_REPORTS: Report[] = [
     createdAt: '2026-11-04T15:20:00Z',
   },
 ];
+

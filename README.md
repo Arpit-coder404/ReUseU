@@ -107,3 +107,4 @@ npm run build
 3. **Carlos Diaz** (`carlos.d@campus.edu`) — MechE Sophomore & campus cyclist.
 4. **Sarah Jenkins** (`sarah.j@campus.edu`) — Architecture Senior.
 5. **Campus Green Committee** (`moderator@campus.edu`) — Official Campus Administrator.
+

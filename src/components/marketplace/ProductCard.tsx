@@ -157,3 +157,4 @@ export const ProductCard: React.FC<ProductCardProps> = ({ listing }) => {
     </motion.div>
   );
 };
+

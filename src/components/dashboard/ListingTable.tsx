@@ -168,3 +168,4 @@ export const ListingTable: React.FC<ListingTableProps> = ({ listings }) => {
     </div>
   );
 };
+

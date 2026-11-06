@@ -50,3 +50,4 @@ export const ListingGallery: React.FC<ListingGalleryProps> = ({ images, title })
     </div>
   );
 };
+

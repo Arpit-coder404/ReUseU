@@ -182,3 +182,4 @@ export interface ImpactMetrics {
   wasteAvoidedKg: number;
   co2SavedKg: number;
 }
+

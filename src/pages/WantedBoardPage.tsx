@@ -170,3 +170,4 @@ export const WantedBoardPage: React.FC = () => {
     </div>
   );
 };
+
